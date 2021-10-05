@@ -46,3 +46,10 @@ print(np.std(arr1))
 
 print("ecponential of each element")
 print(np.exp(arr))
+
+print("log value of each element of array where the log base is 2")
+
+print(np.log(arr1))
+
+print("for log base 10 you have to use this function")
+print(np.log10(arr1))
