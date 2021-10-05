@@ -46,3 +46,7 @@ print(new_arr1)
 print(array_2d)
 print("convert multidiamensional array to 1d array")
 print(array_2d.ravel())
+
+print("transpose of array ")
+
+print(array_2d.T)
